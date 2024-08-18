@@ -24,10 +24,12 @@ body {
   .fa-facebook {
     background: #3B5998;
     color: white;
+    padding: 15px 20px;
   }
   .fa-instagram {
   background: #fbad50;
   color: white;
+  padding: 15px 20px;
 }
 
 .avatar {
@@ -38,7 +40,7 @@ body {
 }
 
 h3 {
-    text-shadow: 0 0 3px #2f50d3, 0 0 5px #cdb4db;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #ff9100;
   }
 
 .card {
